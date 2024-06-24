@@ -5,7 +5,7 @@
 .DS_*
 *.log
 logs
-**/*.backup.*
+**/*.backup.* 
 **/*.back.*
 
 node_modules
